@@ -1,0 +1,10 @@
+# Compiled binary (built locally for quick testing)
+/st
+.st
+# Go build cache and test artifacts
+*.test
+*.out
+worklog.md
+# OS artifacts
+.DS_Store
+.claude
