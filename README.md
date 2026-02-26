@@ -17,9 +17,9 @@ With Stint, you tell it goals and walk away. You come back and find the commits 
 
 ## Principles
 
-Simple. It is simple to use and simple to understand. 
-Durable. Stint just works and you will not need to babysit it. 
-We don't reinvent the wheels. There is no complex system for issue tracking or orchestration because there is no need. 
+* Simple. It is simple to use and simple to understand. 
+* Durable. Stint just works and you will not need to babysit it. 
+* We don't reinvent the wheels. There is no complex system for issue tracking or orchestration because there is no need. 
 
 ## Prerequisites
 
