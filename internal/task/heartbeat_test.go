@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/user/stint/internal/task"
+	"github.com/ilocn/stint/internal/task"
 )
 
 func TestHeartbeatWriteAndRead(t *testing.T) {

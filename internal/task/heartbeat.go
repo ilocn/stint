@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // DefaultTimeoutSecs is the number of seconds without a heartbeat before a

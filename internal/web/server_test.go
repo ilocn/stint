@@ -14,9 +14,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/user/stint/internal/goal"
-	"github.com/user/stint/internal/task"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/goal"
+	"github.com/ilocn/stint/internal/task"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // newTestWS creates a temporary workspace for use in tests.

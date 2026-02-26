@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/user/stint/internal/gitutil"
+	"github.com/ilocn/stint/internal/gitutil"
 )
 
 // initRepo creates a minimal git repo in a temp dir with an initial commit.

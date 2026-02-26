@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 func newWS(t *testing.T) *workspace.Workspace {

@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/user/stint/internal/gitutil"
-	"github.com/user/stint/internal/goal"
-	"github.com/user/stint/internal/task"
-	"github.com/user/stint/internal/worker"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/gitutil"
+	"github.com/ilocn/stint/internal/goal"
+	"github.com/ilocn/stint/internal/task"
+	"github.com/ilocn/stint/internal/worker"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // DefaultStaleThresholdSecs is the age (in seconds) of a running task's

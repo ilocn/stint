@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 func TestInit(t *testing.T) {

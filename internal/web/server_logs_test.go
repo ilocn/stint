@@ -19,7 +19,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/user/stint/internal/logbuf"
+	"github.com/ilocn/stint/internal/logbuf"
 )
 
 // newTestServerWithAPILogs creates an httptest.Server wired to a Server

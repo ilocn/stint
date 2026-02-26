@@ -10,8 +10,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/user/stint/internal/agent"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/agent"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // fetchAndInstall downloads an agent or skill from source and writes it to

@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/user/stint/internal/agent"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/agent"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // TestGetImplFallbackDefault verifies that Get("impl") returns a sensible

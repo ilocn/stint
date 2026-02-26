@@ -18,7 +18,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // TestOpenFilepathAbsErrorWithDeletedCWD verifies that workspace.Open returns

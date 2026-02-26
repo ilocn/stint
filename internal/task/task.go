@@ -9,8 +9,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/user/stint/internal/idgen"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/idgen"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // Status values — the directory a task lives in IS its status.

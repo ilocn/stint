@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 //go:embed embedded/*.md

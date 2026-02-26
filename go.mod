@@ -1,4 +1,4 @@
-module github.com/user/stint
+module github.com/ilocn/stint
 
 go 1.25.0
 
