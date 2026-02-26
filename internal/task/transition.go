@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/user/stint/internal/gitutil"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/gitutil"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // Done moves a running task to done with the given summary,

@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/user/stint/internal/idgen"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/idgen"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // Worker tracks a running agent process.

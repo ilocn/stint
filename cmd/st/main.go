@@ -22,17 +22,17 @@ import (
 	"time"
 
 	"github.com/alecthomas/kong"
-	"github.com/user/stint/internal/agent"
-	"github.com/user/stint/internal/goal"
-	"github.com/user/stint/internal/logger"
-	"github.com/user/stint/internal/recovery"
-	"github.com/user/stint/internal/supervisor"
-	"github.com/user/stint/internal/task"
-	"github.com/user/stint/internal/worker"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/agent"
+	"github.com/ilocn/stint/internal/goal"
+	"github.com/ilocn/stint/internal/logger"
+	"github.com/ilocn/stint/internal/recovery"
+	"github.com/ilocn/stint/internal/supervisor"
+	"github.com/ilocn/stint/internal/task"
+	"github.com/ilocn/stint/internal/worker"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
-const version = "0.1.0"
+var version = "dev" // injected via ldflags at build time
 
 // Globals holds shared state injected into Run methods that need a workspace.
 type Globals struct {

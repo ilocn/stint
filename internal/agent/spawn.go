@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/user/stint/internal/gitutil"
-	"github.com/user/stint/internal/task"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/gitutil"
+	"github.com/ilocn/stint/internal/task"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // filteredEnv returns os.Environ() with the named keys removed.

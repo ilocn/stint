@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/user/stint/internal/gitutil"
-	"github.com/user/stint/internal/task"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/gitutil"
+	"github.com/ilocn/stint/internal/task"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // TestFilteredEnvRemovesKey verifies that filteredEnv strips the named key.

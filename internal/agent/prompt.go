@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/user/stint/internal/gitutil"
-	"github.com/user/stint/internal/task"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/gitutil"
+	"github.com/ilocn/stint/internal/task"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // BuildPrompt constructs the full prompt injected into the worker's claude session.

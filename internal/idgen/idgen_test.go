@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/user/stint/internal/idgen"
+	"github.com/ilocn/stint/internal/idgen"
 )
 
 // TestNewTimeSortableID_Format verifies that every generated ID has the form:

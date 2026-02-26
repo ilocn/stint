@@ -10,8 +10,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/user/stint/internal/idgen"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/idgen"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // ErrDuplicate is returned by Create when a goal with the same text already exists.

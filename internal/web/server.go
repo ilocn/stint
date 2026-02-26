@@ -11,10 +11,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/user/stint/internal/goal"
-	"github.com/user/stint/internal/logbuf"
-	"github.com/user/stint/internal/task"
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/goal"
+	"github.com/ilocn/stint/internal/logbuf"
+	"github.com/ilocn/stint/internal/task"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // statusSortOrder defines the display order: failed first, cancelled last.

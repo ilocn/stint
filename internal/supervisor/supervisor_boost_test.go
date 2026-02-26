@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/user/stint/internal/goal"
-	"github.com/user/stint/internal/task"
-	"github.com/user/stint/internal/worker"
+	"github.com/ilocn/stint/internal/goal"
+	"github.com/ilocn/stint/internal/task"
+	"github.com/ilocn/stint/internal/worker"
 )
 
 // ─── helpers ─────────────────────────────────────────────────────────────────

@@ -8,7 +8,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/user/stint/internal/workspace"
+	"github.com/ilocn/stint/internal/workspace"
 )
 
 // ErrNoTask is returned when no claimable task is found.
